@@ -12,7 +12,6 @@ import UsedRecords from "./pages/UsedRecords";
 import Contact from "./pages/Contact";
 import Navigation from "./components/navi/Navigation";
 import Footer from "./components/footer/Footer";
-import NavMobile from "./components/navi/NavMobile";
 import MobileNav from "./components/navi/MobileNav";
 
 function App() {
