@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover": "https://cdn.pitchfork.com/albums/14803/homepage_large.a96544ce.jpg",
+    "name": "After the Gold Rush",
+    "artist": "Neil Young",
+    "year": "1970",
+    "price": "$39",
+    "description": "After the gold rush of 1960s California rock, most of its main players spent the ’70s slowly hippie-twirling towards irrelevance and rehab resorts. Not so for Mr. Young, who was just hitting his stride as the decade turned over, kicking off a run of 11 great albums in 10 years with After the Gold Rush. One of his few efforts that can’t be considered either the product of Crazy Horse feedback Neil or sensitive-hayseed Neil, Gold Rush is also one of Young’s most consistent records. Holed up in his Topanga Canyon home writing a soundtrack for a never-made Dean Stockwell–scripted film, Young invited his friends to join him on alien-abduction ballads, preachy Skynyrd-provoking jams, and lovesick nocturnal country-blues. Unlike so many of his sun-dazed contemporaries, Young had the right kind of eyes to see the high-water mark, and After the Gold Rush is the departure point on his essential decade-long journey away from the fallout of the 1960s. –Rob Mitchum"
+  },
+  {
+    "id": 2,
+    "cover": "https://cdn.pitchfork.com/albums/25233/homepage_large.b458b73d.jpg",
+    "name": "The Idiot",
+    "artist": "Iggy Pop",
+    "year": "1977",
+    "price": "$35",
+    "description": "The Idiot presents what is probably Iggy Pop’s darkest release, and rightfully so, given the period of his life during which it was recorded. Set to music written primarily by Bowie during the Station to Station sessions, Pop’s lyrics are often reflective and sentimental—“Dum Dum Boys” pines for his Stooges bandmates, while “Tiny Girls” and “Mass Production” lament stupid love—and when they’re not, they’re bitter and scathingly sarcastic (“Nightclubbing,” “Funtime”). Against minimal, mechanical instrumentation, Pop’s delivery is suitably passionless, as he dryly sing/speaks in a deep, unfeeling croak. Musically, it formed the foundation for Joy Division’s cold, caustic creepiness, at times echoing their sound so strikingly it could be mistaken for Unknown Pleasures. In the throes of a crippling bout with depression, it’s clear what was on Ian Curtis’ mind in his final hours. –Ryan Schreiber"
+  },
+  {
+    "id": 3,
+    "cover": "https://cdn4.pitchfork.com/albums/21403/homepage_large.6a38e972.jpg",
+    "name": "Physical Graffiti",
+    "artist": "Led Zeppelin",
+    "year": "1975",
+    "price": "$32",
+    "description": "Graffiti is also the pinnacle of Zeppelin’s mythology: It contains all the requisite gnomes, swashbuckling fools, and garbled Paradise Lost-garden-car-incest-pie euphemisms. Jimmy Page’s broiling and obstinate riffs flatten the songs' images of Middle Eastern mountains and pristine country landscapes. Robert Plant’s lungs have been seemingly saturated in tar and moonshine. If you must know what John Bonham's thunderous drums are like, cover your head in cement and run into a tsunami. Bizarrely then, the rest of Graffiti is overwhelmed by Page's country and blues fixations. “In My Time of Dying”’s hurling slide-guitar and Plant's entirely blasphemous Christ-lust blast out of a South Carolina shack. The bagpipe-harmonica synths on “In the Light” are sheltered by serenely droning strings. Graffiti proves that not only was Zeppelin powerful enough to sustain a double-album; they were powerful enough to sustain every metal band that came after them."
+  },
+  {
+    "id": 4,
+    "cover": "https://cdn4.pitchfork.com/albums/3775/homepage_large.c6db6bda.jpg",
+    "name": "Band of Gypsys",
+    "artist": "Jimi Hendrix",
+    "year": "1970",
+    "price": "$8",
+    "description": "Although they were together for less than a year, the Band of Gypsys provided the springboard for some of Hendrix’s most soulful, enduring music. The Experience’s psychedelic maelstrom encouraged Hendrix’s attention-grabbing antics, but Buddy Miles and Billy Cox supplied the funky, backbeat-driven rhythm section he sought at the turn of the decade. “Who Knows,” “Power of Soul,” and “Message to Love” blister with the deep funk rock sound Hendrix was turning towards."
+  },
+  {
+    "id": 5,
+    "cover": "https://cdn4.pitchfork.com/albums/17256/homepage_large.50857a66.jpg",
+    "name": "20 Jazz Funk Greats",
+    "artist": "Throbbing Gristle",
+    "year": "1979",
+    "price": "$23",
+    "description": "20 Jazz Funk Greats’ most impressive trait isn’t the pulverizing factory machinations of Genesis P-Orridge’s blasted allegories—“Pain is the stimulus of pain”; “I’ve got a little biscuit tin/ To keep your panties in/ Soiled panties, white panties, school panties, Y-Front panties”—or its winking pastoral cover art, or those crazy-ass bird calls, sleazy ambient pulsations, and homemade electro-pop grooves. No, 20 Jazz Funk Greats’ most impressive trait is its timelessness. As proven by the recent TG remix project, you don’t need to touch these soundtracks with your grubby synthesizers—you’ll just stain the magic with the ones and zeros of digital cliché. "
+  }
+]

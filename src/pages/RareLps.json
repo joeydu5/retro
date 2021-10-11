@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://vintagevinyl.com/Photo/418464861456",
+    "artist": "Bob Dylan",
+    "album": "Jokeman",
+    "price": "$19"
+  },
+  {
+    "id": 2,
+    "image": "https://vintagevinyl.com/Photo/418464862064",
+    "artist": "Prince",
+    "album": "The Truth",
+    "price": "$22"
+  },
+  {
+    "id": 3,
+    "image": "https://s3.amazonaws.com/broadtime_thumbnails/021/418466188021/418466188021:500.jpg",
+    "artist": "THE BLACK KEYS",
+    "album": "El Camino",
+    "price": "$18"
+  },
+  {
+    "id": 4,
+    "image": "https://s3.amazonaws.com/broadtime_thumbnails/701/418464779701/418464779701:500.jpg",
+    "artist": "Mammoth WVH",
+    "album": "Mammoth WVH",
+    "price": "$18"
+  },
+  {
+    "id": 5,
+    "image": "https://s3.amazonaws.com/broadtime_thumbnails/629/418464793629/418464793629:500.jpg",
+    "artist": "PAUL MCCARTNEY",
+    "album": "McCartney III Imagined",
+    "price": "$18"
+  },
+  {
+    "id": 6,
+    "image": "https://s3.amazonaws.com/broadtime_thumbnails/001/418465293001/418465293001:500.jpg",
+    "artist": "TOM PETTY",
+    "album": "Angel Dream",
+    "price": "$18"
+  },
+  {
+    "id": 7,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/b/500/6/1/7/1/3431716.jpg",
+    "artist": "NORAH JONES",
+    "album": "Day Breaks",
+    "price": "$18"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ebayimg.com/images/g/uJQAAOSwHMBhBG0T/s-l1600.jpg",
+    "artist": "Michael Bolton",
+    "album": "Time, Love & Tenderness",
+    "price": "$18"
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg",
+    "artist": "The Beatles",
+    "album": "Yellow Submarine",
+    "price": "$18"
+  }
+]

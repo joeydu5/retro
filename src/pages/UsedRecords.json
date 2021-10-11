@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/c/500/7/5/5/9/3299557.jpg",
+    "artist": "Dierks Bentley",
+    "album": "Black",
+    "price": "$17"
+  },
+  {
+    "id": 2,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/c/500/8/6/8/7/3447868.jpg",
+    "artist": "Peter White",
+    "album": "Groovin'",
+    "price": "$21"
+  },
+  {
+    "id": 3,
+    "image": "https://s3.amazonaws.com/broadtime_thumbnails/106/418464940106/418464940106:500.jpg",
+    "artist": "Cedric Burnside",
+    "album": "I Be Trying",
+    "price": "$20"
+  },
+  {
+    "id": 4,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/b/500/4/3/3/8/3428334.jpg",
+    "artist": "John Scofield",
+    "album": "Country For Old Men",
+    "price": "$25"
+  },
+  {
+    "id": 5,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/b/500/5/8/6/7/3477685.jpg",
+    "artist": "Brad Paisley",
+    "album": "Life Amplified",
+    "price": "$22"
+  },
+  {
+    "id": 6,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/b/500/5/3/1/1/3391135.jpg",
+    "artist": "Nini Rosso",
+    "album": "Love Remains",
+    "price": "$26"
+  },
+  {
+    "id": 7,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/a/500/0/7/7/7/3377770.jpg",
+    "artist": "David Nail",
+    "album": "Fighter",
+    "price": "$21"
+  },
+  {
+    "id": 8,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/a/500/3/8/9/6/3346983.jpg",
+    "artist": "Blake Shelton",
+    "album": "If I'm Honest",
+    "price": "$30"
+  },
+  {
+    "id": 9,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/a/500/2/6/0/7/3327062.jpg",
+    "artist": "Keith Urban",
+    "album": "Ripcord",
+    "price": "$35"
+  },
+  {
+    "id": 10,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/b/500/4/3/4/2/3312434.jpg",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "price": "$38"
+  },
+  {
+    "id": 11,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/c/500/7/5/6/2/3072657.jpg",
+    "artist": "Mavis Stables",
+    "album": "Living on a High Note",
+    "price": "$25"
+  },
+  {
+    "id": 12,
+    "image": "https://aentcdn.azureedge.net/graphics/items/sdimages/b/500/4/7/5/5/3335574.jpg",
+    "artist": "William Bell",
+    "album": "This is Where I Live",
+    "price": "$22"
+  }
+]
