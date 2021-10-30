@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import { NavLink } from "react-router-dom";
 import logo from "../../resources/logo2.png";
-import "./Navigation.css";
+import "../../style/style.css";
 
 const Navigation = (props) => {
   return (

@@ -1,10 +1,16 @@
 import React from "react";
-import "./Home.css";
+import "../style/style.css";
 import img1 from "../resources/images/img1.jpeg";
+
 import img2 from "../resources/images/img2.jpeg";
 import HomeSlideShow from "./HomeSlideShow";
 
 export default function Home() {
+  const img1url =
+    "https://images.pexels.com/photos/1300578/pexels-photo-1300578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+
+  const img2url =
+    "https://images.pexels.com/photos/164716/pexels-photo-164716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
   return (
     <div>
       {/* <div className="homeMain">
@@ -14,7 +20,7 @@ export default function Home() {
       <HomeSlideShow />
       <div className="home-main2 flex-box">
         <div className="home-main2-left">
-          <img src={img1} alt="" />
+          <img src={img1url} alt="record image 1" />
         </div>
 
         <div className="home-main2-right">
@@ -37,7 +43,7 @@ export default function Home() {
           </p>
         </div>
         <div className="home-main3-right">
-          <img src={img2} alt="" />
+          <img src={img2url} alt="record image 2" />
         </div>
       </div>
     </div>

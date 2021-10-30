@@ -1,7 +1,7 @@
 import React from "react";
 import data from "./RetroRecords.json";
 import { useState } from "react";
-import "./RetroRecords.css";
+import "../style/style.css";
 import img1 from "../resources/images/record2.jpeg";
 
 export default function RetroRecords() {

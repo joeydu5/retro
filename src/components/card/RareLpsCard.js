@@ -1,5 +1,5 @@
 import React from "react";
-import "./RareLpsCard.css";
+import "../../style/style.css";
 
 export default function RareLpsCard(props) {
   const { image, artist, album, price } = props.each;

@@ -1,6 +1,5 @@
 import React from "react";
-import "./Contact.css";
-import { useFormik } from "formik";
+import "../style/style.css";
 
 export default function Contact() {
   const demos = {

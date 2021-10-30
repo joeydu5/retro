@@ -1,5 +1,5 @@
 import React from "react";
-import "./UsedRecords.css";
+import "../style/style.css";
 import data from "./UsedRecords.json";
 import RareLpsCard from "../components/card/RareLpsCard";
 

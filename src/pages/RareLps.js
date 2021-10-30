@@ -1,7 +1,7 @@
 import React from "react";
 import RareLpsCard from "../components/card/RareLpsCard";
 import data from "./RareLps.json";
-import "./RareLps.css";
+import "../style/style.css";
 
 export default function RareLps() {
   return (
